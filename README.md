@@ -14,3 +14,6 @@ Create and develop a security system that can monitor and detect human presence.
 # 𝗥𝗲𝘀𝘂𝗹𝘁:
 
 The system runs as desired, with an accuracy value of 80% the system can detect objects as far as 20 m during the day, 15 m to 20 m at night with the help of light. The system can send images to the Telegram application and use commands to move the camera to the right or left responsively.
+
+# Doc:
+https://drive.google.com/file/d/1cxtHY_BcdEjxWrDmlcNY3evCy2J_FZ-F/view?usp=sharing
